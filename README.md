@@ -12,6 +12,4 @@
     </div>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangMinwoo-0719)](https://github.com/사용자이름/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinwoo-0719)](https://github.com/사용자이름/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw0303)](https://solved.ac/kmw0303)
