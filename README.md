@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=78fe76&height=120&text=Minwoo's%20Github&animation=twinkling&fontColor=6670ff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello Github! </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, there🖐️ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 열심히 하고싶은 나 </div> 
     </div>
     <div align= "center"> 
