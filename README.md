@@ -15,4 +15,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw0303)](https://solved.ac/kmw0303)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Minwoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KangMinwoo-0719&theme=dracula)](https://github.com/KangMinwoo-0719/github-readme-activity-graph)
