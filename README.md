@@ -12,7 +12,7 @@
     </div>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangMinwoo-0719)](https://github.com/사용자이름/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw0303)](https://solved.ac/kmw0303)
+[![Paiza Rank](https://img.shields.io/badge/Paiza-C_Rank-28A745?style=for-the-badge&logo=codeforces&logoColor=white)](https://paiza.jp/mypage?from=global_header&badge=true)
 
 
 [![Minwoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KangMinwoo-0719&theme=dracula)](https://github.com/KangMinwoo-0719/github-readme-activity-graph)
