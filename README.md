@@ -14,11 +14,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinwoo-0719&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
     </div> 
     
-    <div style="margin-top: 10px;">
-        <a href="https://paiza.jp/mypage?from=global_header&badge=true">
-            <img src="https://img.shields.io/badge/Paiza-S_Rank-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" alt="Paiza Rank">
-        </a>
-    </div>
+<div style="margin-top: 10px;">
+    <a href="https://paiza.jp/mypage?from=global_header&badge=true">
+        <img src="https://img.shields.io/badge/Paiza-S_Rank-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" alt="Paiza Rank">
+    </a>
+</div>
 </div>
 
 <br>
