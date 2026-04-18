@@ -16,7 +16,7 @@
     
 <div align="center">
   <a href="https://paiza.jp/mypage?from=global_header&badge=true">
-    <img src="C:\Users\user\Pictures\Screenshots\스크린샷 2026-04-18 194942.png" alt="My Paiza Rank" width="300">
+    <img src="paiza.png" alt="My Paiza Rank" width="300">
   </a>
 </div>
 
