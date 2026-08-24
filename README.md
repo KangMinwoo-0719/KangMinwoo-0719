@@ -19,7 +19,6 @@
                     <img src="paiza.png" alt="My Paiza Rank" width="300">
                 </a>
                 <br>
-                <div style="margin-top: 10px; font-weight: bold; color: #c9d1d9;">My Paiza Rank</div>
             </td>
         </tr>
     </table>
