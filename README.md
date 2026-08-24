@@ -11,12 +11,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
     <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
-            <td align="center" valign="middle" style="border: none; padding: 10px;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinwoo-0719&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
             </td>
-            <td align="center" valign="middle" style="border: none; padding: 10px;">
-                <a href="https://paiza.jp/mypage?from=global_header&badge=true">
-                    <img src="paiza.png" alt="My Paiza Rank" width="300">
                 </a>
                 <br>
             </td>
