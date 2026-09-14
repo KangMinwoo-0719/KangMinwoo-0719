@@ -62,9 +62,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KangMinwoo-0719&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" width="68%" />
 </div>
 
-  <!-- Contribution Graph -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangMinwoo-0719&theme=react-dark" alt="Contribution Graph" />
-  </p>
+ 
+
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
