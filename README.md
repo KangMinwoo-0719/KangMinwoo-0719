@@ -48,12 +48,19 @@
 
   <!-- GitHub Stats & Most Used Languages -->
   <h3>🥇 Stats</h3>
-  <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KangMinwoo-0719&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinwoo-0719&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </p>
+  <!-- <p> -->
+    <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=KangMinwoo-0719&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
+    <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinwoo-0719&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /> -->
+  <!-- </p> -->
 
   <br/>
+
+  <!-- 연속 잔디 통계 -->
+<div align="center">
+  <h3 style="color: #ffffff;">🔥 Current Streak</h3>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KangMinwoo-0719&theme=dark&background=0D0D0D&border=8B0000&ring=FF2200&fire=FF2200&currStreakNum=FF4500&sideLabels=false" alt="GitHub Streak" width="68%" />
+</div>
 
   <!-- Contribution Graph -->
   <p>
