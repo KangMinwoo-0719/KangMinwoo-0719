@@ -16,8 +16,14 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </p>
-
+  
   <br/>
+
+<h3>📚 Studying</h3>
+<p>
+  <img src="https://img.shields.io/badge/linux-20232a.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />
+  <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=#FCC624" />
+</p>
 
   <br/>
 
